@@ -1,2 +1,3 @@
 # git_test
-the odin prject test
+the odin project test
+Hello Odin!
